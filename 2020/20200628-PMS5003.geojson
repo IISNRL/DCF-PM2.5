@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PTR",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Sanyi",
+        "Date": "2020-06-28",
+        "Valid_MAE": 1.415,
+        "Version": "2020-06-28 01:54:29",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-sanyi.joblib\" target=\"_blank\" title=\"20200628-PMS5003-sanyi.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-sanyi.config\" target=\"_blank\" title=\"20200628-PMS5003-sanyi.config\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.759,
+          24.383
+        ]
+      }
+    }
+  ]
+}
