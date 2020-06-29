@@ -70,11 +70,11 @@ import math
 
 DegreeToRadians = lambda degree: degree * math.pi / 180
 def distanceWithCoordinates(lat1, lon1, lat2, lon2):
-        RADIUS = 6371
-        dlat, dlon = DegreeToRadians(lat2-lat1), DegreeToRadians(lon2-lon1)
-        lat1, lat2 = DegreeToRadians(lat1), DegreeToRadians(lat2)
-        _ = (math.sin(dlat/2) ** 2) + (math.sin(dlon/2) ** 2) * math.cos(lat1) * math.cos(lat2)
-        return RADIUS * 2 * math.atan2(math.sqrt(_), math.sqrt(1-_))
+    RADIUS = 6371
+    dlat, dlon = DegreeToRadians(lat2-lat1), DegreeToRadians(lon2-lon1)
+    lat1, lat2 = DegreeToRadians(lat1), DegreeToRadians(lat2)
+    _ = (math.sin(dlat/2) ** 2) + (math.sin(dlon/2) ** 2) * math.cos(lat1) * math.cos(lat2)
+    return RADIUS * 2 * math.atan2(math.sqrt(_), math.sqrt(1-_))
         
 def find_site( device_lon, device_lat ):
     daily_status_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003.json"
@@ -101,7 +101,7 @@ import urllib
 config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003-nantou.config"
 r = requests.get(config_url)
 content = r.content
-config_dict = json.loads(c)
+config_dict = json.loads(content)
 
 ## joblib
 model_url = "https://github.com/IISNRL/DCF-PM2.5/raw/master/2020/20200620/20200620-PMS5003-nantou.joblib"
@@ -117,7 +117,7 @@ import numpy as np
 
 import sklearn
 import pygam
-from joblib import dump, load
+import joblib
 ```
 
 Data preprocessing
