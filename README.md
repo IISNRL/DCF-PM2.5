@@ -126,10 +126,11 @@ Data preprocessing
 # raw_value (Dict)
 {'P': 11, 'H': 1, 'T': 32.5, 'R': 72.5}
 # raw_DF (DataFrame)
-      P    H     T     R
-0  11.0  1.0  32.5  72.5
-1  12.4  2.0  33.1  75.0
-2  15.6  3.0  32.1  70.3
+raw_DF = pd.DataFrame([{'P': 11, 'H': 1, 'T': 32.5, 'R': 72.5},{'P': 12, 'H': 2, 'T': 33.1, 'R': 75},{'P': 15.6, 'H': 3, 'T': 32.1, 'R': 70.3}])
+#       P    H     T     R
+# 0  11.0  1.0  32.5  72.5
+# 1  12.4  2.0  33.1  75.0
+# 2  15.6  3.0  32.1  70.3
 ```
 
 ```Python
@@ -149,9 +150,13 @@ Load calibration model and predict value
 ```Python
 ## load
 lm = joblib.load( "20200620-PMS5003-nantou.joblib" )
-## predict
+## calibration
 # "X_test" columns order should be the same as "Feature" in config
 Y_pred = lm.predict( X_test )
+
+## result
+# array([8.77330524])
+# array([ 8.77330524,  8.9214365 , 10.91355547])
 ```
 
 
