@@ -10,7 +10,7 @@
         "SiteName": "Nantou",
         "Date": "2020-09-07",
         "Valid_MAE": 2.326,
-        "Version": "2020-09-07 00:18:18",
+        "Version": "2020-09-07 05:49:44",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-nantou.joblib\" target=\"_blank\" title=\"20200907-PMS5003-nantou.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-nantou.config\" target=\"_blank\" title=\"20200907-PMS5003-nantou.config\">Link to File</a>"
       },
@@ -31,7 +31,7 @@
         "SiteName": "Chiayi",
         "Date": "2020-09-07",
         "Valid_MAE": 2.152,
-        "Version": "2020-09-07 00:18:30",
+        "Version": "2020-09-07 05:49:50",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-chiayi.joblib\" target=\"_blank\" title=\"20200907-PMS5003-chiayi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-chiayi.config\" target=\"_blank\" title=\"20200907-PMS5003-chiayi.config\">Link to File</a>"
       },
@@ -52,7 +52,7 @@
         "SiteName": "Puzi",
         "Date": "2020-09-07",
         "Valid_MAE": 2.209,
-        "Version": "2020-09-07 00:18:41",
+        "Version": "2020-09-07 05:49:56",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-puzi.joblib\" target=\"_blank\" title=\"20200907-PMS5003-puzi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-puzi.config\" target=\"_blank\" title=\"20200907-PMS5003-puzi.config\">Link to File</a>"
       },
@@ -72,8 +72,8 @@
         "Data_Length": 7,
         "SiteName": "Keelung",
         "Date": "2020-09-07",
-        "Valid_MAE": 2.183,
-        "Version": "2020-09-07 00:18:52",
+        "Valid_MAE": 2.25,
+        "Version": "2020-09-07 05:50:02",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-keelung.joblib\" target=\"_blank\" title=\"20200907-PMS5003-keelung.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-keelung.config\" target=\"_blank\" title=\"20200907-PMS5003-keelung.config\">Link to File</a>"
       },
@@ -93,8 +93,8 @@
         "Data_Length": 30,
         "SiteName": "Yilan",
         "Date": "2020-09-07",
-        "Valid_MAE": 3.431,
-        "Version": "2020-09-07 00:19:02",
+        "Valid_MAE": 3.417,
+        "Version": "2020-09-07 05:50:07",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-yilan.joblib\" target=\"_blank\" title=\"20200907-PMS5003-yilan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-yilan.config\" target=\"_blank\" title=\"20200907-PMS5003-yilan.config\">Link to File</a>"
       },
@@ -115,7 +115,7 @@
         "SiteName": "Hengchun",
         "Date": "2020-09-07",
         "Valid_MAE": 2.54,
-        "Version": "2020-09-07 00:19:14",
+        "Version": "2020-09-07 05:50:16",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-hengchun.joblib\" target=\"_blank\" title=\"20200907-PMS5003-hengchun.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-hengchun.config\" target=\"_blank\" title=\"20200907-PMS5003-hengchun.config\">Link to File</a>"
       },
@@ -136,7 +136,7 @@
         "SiteName": "Pingtung",
         "Date": "2020-09-07",
         "Valid_MAE": 2.444,
-        "Version": "2020-09-07 00:19:35",
+        "Version": "2020-09-07 05:50:32",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-pingtung.joblib\" target=\"_blank\" title=\"20200907-PMS5003-pingtung.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-pingtung.config\" target=\"_blank\" title=\"20200907-PMS5003-pingtung.config\">Link to File</a>"
       },
@@ -157,7 +157,7 @@
         "SiteName": "Changhua",
         "Date": "2020-09-07",
         "Valid_MAE": 2.706,
-        "Version": "2020-09-07 00:19:44",
+        "Version": "2020-09-07 05:50:40",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-changhua.joblib\" target=\"_blank\" title=\"20200907-PMS5003-changhua.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-changhua.config\" target=\"_blank\" title=\"20200907-PMS5003-changhua.config\">Link to File</a>"
       },
@@ -178,7 +178,7 @@
         "SiteName": "Banqiao",
         "Date": "2020-09-07",
         "Valid_MAE": 2.709,
-        "Version": "2020-09-07 00:19:52",
+        "Version": "2020-09-07 05:50:45",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-banqiao.joblib\" target=\"_blank\" title=\"20200907-PMS5003-banqiao.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-banqiao.config\" target=\"_blank\" title=\"20200907-PMS5003-banqiao.config\">Link to File</a>"
       },
@@ -199,7 +199,7 @@
         "SiteName": "Hsinchu",
         "Date": "2020-09-07",
         "Valid_MAE": 5.641,
-        "Version": "2020-09-07 00:20:01",
+        "Version": "2020-09-07 05:50:50",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-hsinchu.joblib\" target=\"_blank\" title=\"20200907-PMS5003-hsinchu.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-hsinchu.config\" target=\"_blank\" title=\"20200907-PMS5003-hsinchu.config\">Link to File</a>"
       },
@@ -220,7 +220,7 @@
         "SiteName": "Zhudong",
         "Date": "2020-09-07",
         "Valid_MAE": 2.305,
-        "Version": "2020-09-07 00:20:14",
+        "Version": "2020-09-07 05:50:58",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-zhudong.joblib\" target=\"_blank\" title=\"20200907-PMS5003-zhudong.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-zhudong.config\" target=\"_blank\" title=\"20200907-PMS5003-zhudong.config\">Link to File</a>"
       },
@@ -241,7 +241,7 @@
         "SiteName": "Pingzhen",
         "Date": "2020-09-07",
         "Valid_MAE": 3.689,
-        "Version": "2020-09-07 00:20:37",
+        "Version": "2020-09-07 05:51:07",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-pingzhen.joblib\" target=\"_blank\" title=\"20200907-PMS5003-pingzhen.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-pingzhen.config\" target=\"_blank\" title=\"20200907-PMS5003-pingzhen.config\">Link to File</a>"
       },
@@ -262,7 +262,7 @@
         "SiteName": "Taoyuan",
         "Date": "2020-09-07",
         "Valid_MAE": 2.392,
-        "Version": "2020-09-07 00:21:01",
+        "Version": "2020-09-07 05:51:21",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20200907-PMS5003-taoyuan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-taoyuan.config\" target=\"_blank\" title=\"20200907-PMS5003-taoyuan.config\">Link to File</a>"
       },
@@ -283,7 +283,7 @@
         "SiteName": "Magong",
         "Date": "2020-09-07",
         "Valid_MAE": 2.061,
-        "Version": "2020-09-07 00:21:15",
+        "Version": "2020-09-07 05:51:29",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-magong.joblib\" target=\"_blank\" title=\"20200907-PMS5003-magong.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-magong.config\" target=\"_blank\" title=\"20200907-PMS5003-magong.config\">Link to File</a>"
       },
@@ -304,7 +304,7 @@
         "SiteName": "Zhongming",
         "Date": "2020-09-07",
         "Valid_MAE": 2.386,
-        "Version": "2020-09-07 00:21:27",
+        "Version": "2020-09-07 05:51:34",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20200907-PMS5003-zhongming.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-zhongming.config\" target=\"_blank\" title=\"20200907-PMS5003-zhongming.config\">Link to File</a>"
       },
@@ -325,7 +325,7 @@
         "SiteName": "Yangming",
         "Date": "2020-09-07",
         "Valid_MAE": 5.013,
-        "Version": "2020-09-07 00:21:34",
+        "Version": "2020-09-07 05:51:39",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-yangming.joblib\" target=\"_blank\" title=\"20200907-PMS5003-yangming.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-yangming.config\" target=\"_blank\" title=\"20200907-PMS5003-yangming.config\">Link to File</a>"
       },
@@ -346,7 +346,7 @@
         "SiteName": "Wanhua",
         "Date": "2020-09-07",
         "Valid_MAE": 2.157,
-        "Version": "2020-09-07 00:21:51",
+        "Version": "2020-09-07 05:51:47",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-wanhua.joblib\" target=\"_blank\" title=\"20200907-PMS5003-wanhua.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-wanhua.config\" target=\"_blank\" title=\"20200907-PMS5003-wanhua.config\">Link to File</a>"
       },
@@ -366,8 +366,8 @@
         "Data_Length": 21,
         "SiteName": "Tainan",
         "Date": "2020-09-07",
-        "Valid_MAE": 2.306,
-        "Version": "2020-09-07 00:21:58",
+        "Valid_MAE": 2.314,
+        "Version": "2020-09-07 05:51:52",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-tainan.joblib\" target=\"_blank\" title=\"20200907-PMS5003-tainan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-tainan.config\" target=\"_blank\" title=\"20200907-PMS5003-tainan.config\">Link to File</a>"
       },
@@ -388,7 +388,7 @@
         "SiteName": "Xinying",
         "Date": "2020-09-07",
         "Valid_MAE": 3.583,
-        "Version": "2020-09-07 00:22:07",
+        "Version": "2020-09-07 05:51:57",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-xinying.joblib\" target=\"_blank\" title=\"20200907-PMS5003-xinying.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-xinying.config\" target=\"_blank\" title=\"20200907-PMS5003-xinying.config\">Link to File</a>"
       },
@@ -408,8 +408,8 @@
         "Data_Length": 7,
         "SiteName": "Taitung",
         "Date": "2020-09-07",
-        "Valid_MAE": 3.068,
-        "Version": "2020-09-07 00:22:17",
+        "Valid_MAE": 3.123,
+        "Version": "2020-09-07 05:52:03",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-taitung.joblib\" target=\"_blank\" title=\"20200907-PMS5003-taitung.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-taitung.config\" target=\"_blank\" title=\"20200907-PMS5003-taitung.config\">Link to File</a>"
       },
@@ -429,8 +429,8 @@
         "Data_Length": 7,
         "SiteName": "Hualien",
         "Date": "2020-09-07",
-        "Valid_MAE": 4.207,
-        "Version": "2020-09-07 00:22:28",
+        "Valid_MAE": 4.212,
+        "Version": "2020-09-07 05:52:12",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-hualien.joblib\" target=\"_blank\" title=\"20200907-PMS5003-hualien.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-hualien.config\" target=\"_blank\" title=\"20200907-PMS5003-hualien.config\">Link to File</a>"
       },
@@ -451,7 +451,7 @@
         "SiteName": "Sanyi",
         "Date": "2020-09-07",
         "Valid_MAE": 2.215,
-        "Version": "2020-09-07 00:22:40",
+        "Version": "2020-09-07 05:52:22",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-sanyi.joblib\" target=\"_blank\" title=\"20200907-PMS5003-sanyi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-sanyi.config\" target=\"_blank\" title=\"20200907-PMS5003-sanyi.config\">Link to File</a>"
       },
@@ -472,7 +472,7 @@
         "SiteName": "Miaoli",
         "Date": "2020-09-07",
         "Valid_MAE": 2.458,
-        "Version": "2020-09-07 00:22:47",
+        "Version": "2020-09-07 05:52:27",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-miaoli.joblib\" target=\"_blank\" title=\"20200907-PMS5003-miaoli.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-miaoli.config\" target=\"_blank\" title=\"20200907-PMS5003-miaoli.config\">Link to File</a>"
       },
@@ -492,8 +492,8 @@
         "Data_Length": 7,
         "SiteName": "Matsu",
         "Date": "2020-09-07",
-        "Valid_MAE": 3.72,
-        "Version": "2020-09-07 00:22:52",
+        "Valid_MAE": 3.662,
+        "Version": "2020-09-07 05:52:31",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-matsu.joblib\" target=\"_blank\" title=\"20200907-PMS5003-matsu.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-matsu.config\" target=\"_blank\" title=\"20200907-PMS5003-matsu.config\">Link to File</a>"
       },
@@ -514,7 +514,7 @@
         "SiteName": "Kinmen",
         "Date": "2020-09-07",
         "Valid_MAE": 2.831,
-        "Version": "2020-09-07 00:23:01",
+        "Version": "2020-09-07 05:52:35",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-kinmen.joblib\" target=\"_blank\" title=\"20200907-PMS5003-kinmen.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-kinmen.config\" target=\"_blank\" title=\"20200907-PMS5003-kinmen.config\">Link to File</a>"
       },
@@ -534,8 +534,8 @@
         "Data_Length": 14,
         "SiteName": "Douliu",
         "Date": "2020-09-07",
-        "Valid_MAE": 2.652,
-        "Version": "2020-09-07 00:23:11",
+        "Valid_MAE": 2.654,
+        "Version": "2020-09-07 05:52:41",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-douliu.joblib\" target=\"_blank\" title=\"20200907-PMS5003-douliu.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-douliu.config\" target=\"_blank\" title=\"20200907-PMS5003-douliu.config\">Link to File</a>"
       },
@@ -556,7 +556,7 @@
         "SiteName": "Qianjin",
         "Date": "2020-09-07",
         "Valid_MAE": 2.732,
-        "Version": "2020-09-07 00:23:17",
+        "Version": "2020-09-07 05:52:46",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-qianjin.joblib\" target=\"_blank\" title=\"20200907-PMS5003-qianjin.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-qianjin.config\" target=\"_blank\" title=\"20200907-PMS5003-qianjin.config\">Link to File</a>"
       },
@@ -577,7 +577,7 @@
         "SiteName": "Meinong",
         "Date": "2020-09-07",
         "Valid_MAE": 2.049,
-        "Version": "2020-09-07 00:23:27",
+        "Version": "2020-09-07 05:52:52",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-meinong.joblib\" target=\"_blank\" title=\"20200907-PMS5003-meinong.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200907/20200907-PMS5003-meinong.config\" target=\"_blank\" title=\"20200907-PMS5003-meinong.config\">Link to File</a>"
       },
