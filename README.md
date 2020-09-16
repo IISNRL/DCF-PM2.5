@@ -9,7 +9,9 @@ Dynamic calibration framework for low-cost PM2.5 sensors<br>
 **AirBox Status Report**: <https://pm25.lass-net.org/AirBox/><br>
 **PM2.5 Open Data Portal**: <https://pm25.lass-net.org/>
 
-[Model Info](#info) | [Requires](#require) | [Usage](#usage) | [Resource](#resource) | [Troubleshooting](#trouble)
+[Model Info](#info) | [Requires](#require) | [Usage](#usage) | [Resource](#resource) | [Troubleshooting](#trouble) | [Update](#update)
+
+Last updated 2020-09-17 UTC.
 
 
 <a name="info"></a>
@@ -98,7 +100,7 @@ import requests
 import urllib
 
 ## config 
-config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003-nantou.config"
+config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003-nantou.json"
 r = requests.get(config_url)
 content = r.content
 config_dict = json.loads(content)
@@ -173,23 +175,27 @@ Y_pred = lm.predict( X_test )
    latest-PMS5003-\<sitename\>.joblib<br>
    <https://pm25.lass-net.org/DCF/model/latest-PMS5003-nantou.joblib>
 - **model config:**<br>
-   latest-PMS5003-\<sitename\>.config<br>
-   <https://pm25.lass-net.org/DCF/model/latest-PMS5003-nantou.config>
+   latest-PMS5003-\<sitename\>.json<br>
+   <https://pm25.lass-net.org/DCF/model/latest-PMS5003-nantou.json>
    
 ### Opendata
 [ISNRL/DCF-PM2.5](https://github.com/IISNRL/DCF-PM2.5/tree/master/)
 
 - **daily forlder:**<br>
    \<YYYY>/\<YYYYMMDD><br>
-   <https://github.com/IISNRL/DCF-PM2.5/tree/master/2020/20200620>
+   <https://github.com/IISNRL/DCF-PM2.5/tree/master/2020/20200917>
 - **daily status:**<br>
    \<YYYYMMDD\>-PMS5003.json<br>
-   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200620-PMS5003.json>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200917-PMS5003.json>
 - **model file:** <br>
    \<YYYYMMDD\>-PMS5003-\<sitename\>.joblib<br>
-   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200620-PMS5003-nantou.joblib>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200917-PMS5003-nantou.joblib>
 - **model config:**<br>
-   \<YYYYMMDD\>-PMS5003-\<sitename\>.config<br>
+   \<YYYYMMDD\>-PMS5003-\<sitename\>.json<br>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200917-PMS5003-nantou.json>
+   
+   before 2020.09.17 [[update]](#update_20200917)<br>
+    \<YYYYMMDD\>-PMS5003-\<sitename\>.config<br>
    <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200620-PMS5003-nantou.config>
    
 
@@ -224,3 +230,10 @@ pip3 install -U scikit-learn
 ***2. Other Error Message?**
 
 please let us know if you get any further question.
+
+<a name="update"></a>
+## Update
+- **2020.09.17** <a name="update_20200917"><a>
+
+   Remane model-config file to `.json`, the format of the config file is still the same
+
