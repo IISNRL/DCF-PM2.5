@@ -79,7 +79,7 @@ def distanceWithCoordinates(lat1, lon1, lat2, lon2):
     return RADIUS * 2 * math.atan2(math.sqrt(_), math.sqrt(1-_))
         
 def find_site( device_lon, device_lat ):
-    daily_status_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003.json"
+    daily_status_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200917/20200917-PMS5003.json"
     models_info = pd.read_json(daily_status_url)
 
     CountingDistance = lambda row: distanceWithCoordinates( row['Latitude'], row['Longitude'], device_lat, device_lon )
@@ -100,14 +100,14 @@ import requests
 import urllib
 
 ## config 
-config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003-nantou.json"
+config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200917/20200917-PMS5003-nantou.json"
 r = requests.get(config_url)
 content = r.content
 config_dict = json.loads(content)
 
 ## joblib
-model_url = "https://github.com/IISNRL/DCF-PM2.5/raw/master/2020/20200620/20200620-PMS5003-nantou.joblib"
-urllib.request.urlretrieve(model_url, '20200620-PMS5003-nantou.joblib')
+model_url = "https://github.com/IISNRL/DCF-PM2.5/raw/master/2020/20200917/20200917-PMS5003-nantou.joblib"
+urllib.request.urlretrieve(model_url, '20200917-PMS5003-nantou.joblib')
 ```
 
 ### load and predict
@@ -151,7 +151,7 @@ Load calibration model and predict value
 
 ```Python
 ## load
-lm = joblib.load( "20200620-PMS5003-nantou.joblib" )
+lm = joblib.load( "20200917-PMS5003-nantou.joblib" )
 ## calibration
 # "X_test" columns order should be the same as "Feature" in config
 Y_pred = lm.predict( X_test )
@@ -186,13 +186,13 @@ Y_pred = lm.predict( X_test )
    <https://github.com/IISNRL/DCF-PM2.5/tree/master/2020/20200917>
 - **daily status:**<br>
    \<YYYYMMDD\>-PMS5003.json<br>
-   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200917-PMS5003.json>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200917/20200917-PMS5003.json>
 - **model file:** <br>
    \<YYYYMMDD\>-PMS5003-\<sitename\>.joblib<br>
-   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200917-PMS5003-nantou.joblib>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200917/20200917-PMS5003-nantou.joblib>
 - **model config:**<br>
    \<YYYYMMDD\>-PMS5003-\<sitename\>.json<br>
-   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200917-PMS5003-nantou.json>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200917/20200917-PMS5003-nantou.json>
    
    before 2020.09.17 [[update]](#update_20200917)<br>
     \<YYYYMMDD\>-PMS5003-\<sitename\>.config<br>
