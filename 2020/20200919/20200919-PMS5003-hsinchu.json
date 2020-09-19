@@ -1,0 +1,1 @@
+{"Site": "hsinchu", "Latitude": 24.805619, "Longitude": 120.972075, "Data_Length": 30, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-09-19", "Version": "2020-09-19 00:13:13", "Valid_MAE": 6.487}
