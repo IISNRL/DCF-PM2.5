@@ -12,7 +12,7 @@
         "Valid_MAE": 1.889,
         "Version": "2020-06-28 07:17:41",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-puzi.joblib\" target=\"_blank\" title=\"20200628-PMS5003-puzi.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-puzi.config\" target=\"_blank\" title=\"20200628-PMS5003-puzi.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-puzi.json\" target=\"_blank\" title=\"20200628-PMS5003-puzi.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
         "Valid_MAE": 2.8,
         "Version": "2020-06-28 07:17:52",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-yilan.joblib\" target=\"_blank\" title=\"20200628-PMS5003-yilan.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-yilan.config\" target=\"_blank\" title=\"20200628-PMS5003-yilan.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-yilan.json\" target=\"_blank\" title=\"20200628-PMS5003-yilan.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +54,7 @@
         "Valid_MAE": 1.536,
         "Version": "2020-06-28 07:17:59",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-hengchun.joblib\" target=\"_blank\" title=\"20200628-PMS5003-hengchun.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-hengchun.config\" target=\"_blank\" title=\"20200628-PMS5003-hengchun.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-hengchun.json\" target=\"_blank\" title=\"20200628-PMS5003-hengchun.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
         "Valid_MAE": 1.323,
         "Version": "2020-06-28 07:18:04",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-changhua.joblib\" target=\"_blank\" title=\"20200628-PMS5003-changhua.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-changhua.config\" target=\"_blank\" title=\"20200628-PMS5003-changhua.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-changhua.json\" target=\"_blank\" title=\"20200628-PMS5003-changhua.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +96,7 @@
         "Valid_MAE": 2.834,
         "Version": "2020-06-28 07:18:18",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-xizhi.joblib\" target=\"_blank\" title=\"20200628-PMS5003-xizhi.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-xizhi.config\" target=\"_blank\" title=\"20200628-PMS5003-xizhi.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-xizhi.json\" target=\"_blank\" title=\"20200628-PMS5003-xizhi.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "Valid_MAE": 2.348,
         "Version": "2020-06-28 07:18:33",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-pingzhen.joblib\" target=\"_blank\" title=\"20200628-PMS5003-pingzhen.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-pingzhen.config\" target=\"_blank\" title=\"20200628-PMS5003-pingzhen.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-pingzhen.json\" target=\"_blank\" title=\"20200628-PMS5003-pingzhen.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +138,7 @@
         "Valid_MAE": 2.212,
         "Version": "2020-06-28 07:18:46",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20200628-PMS5003-taoyuan.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-taoyuan.config\" target=\"_blank\" title=\"20200628-PMS5003-taoyuan.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-taoyuan.json\" target=\"_blank\" title=\"20200628-PMS5003-taoyuan.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
         "Valid_MAE": 0.871,
         "Version": "2020-06-28 07:18:59",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-magong.joblib\" target=\"_blank\" title=\"20200628-PMS5003-magong.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-magong.config\" target=\"_blank\" title=\"20200628-PMS5003-magong.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-magong.json\" target=\"_blank\" title=\"20200628-PMS5003-magong.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +180,7 @@
         "Valid_MAE": 1.955,
         "Version": "2020-06-28 07:19:10",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20200628-PMS5003-zhongming.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-zhongming.config\" target=\"_blank\" title=\"20200628-PMS5003-zhongming.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-zhongming.json\" target=\"_blank\" title=\"20200628-PMS5003-zhongming.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
         "Valid_MAE": 2.182,
         "Version": "2020-06-28 07:19:20",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-fengyuan.joblib\" target=\"_blank\" title=\"20200628-PMS5003-fengyuan.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-fengyuan.config\" target=\"_blank\" title=\"20200628-PMS5003-fengyuan.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-fengyuan.json\" target=\"_blank\" title=\"20200628-PMS5003-fengyuan.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +222,7 @@
         "Valid_MAE": 2.42,
         "Version": "2020-06-28 07:19:30",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-shilin.joblib\" target=\"_blank\" title=\"20200628-PMS5003-shilin.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-shilin.config\" target=\"_blank\" title=\"20200628-PMS5003-shilin.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-shilin.json\" target=\"_blank\" title=\"20200628-PMS5003-shilin.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +243,7 @@
         "Valid_MAE": 2.736,
         "Version": "2020-06-28 07:19:41",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-matsu.joblib\" target=\"_blank\" title=\"20200628-PMS5003-matsu.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-matsu.config\" target=\"_blank\" title=\"20200628-PMS5003-matsu.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-matsu.json\" target=\"_blank\" title=\"20200628-PMS5003-matsu.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
@@ -264,7 +264,7 @@
         "Valid_MAE": 1.615,
         "Version": "2020-06-28 07:19:50",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-douliu.joblib\" target=\"_blank\" title=\"20200628-PMS5003-douliu.joblib\">Link to File</a>",
-        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-douliu.config\" target=\"_blank\" title=\"20200628-PMS5003-douliu.config\">Link to File</a>"
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200628/20200628-PMS5003-douliu.json\" target=\"_blank\" title=\"20200628-PMS5003-douliu.json\">Link to File</a>"
       },
       "geometry": {
         "type": "Point",
