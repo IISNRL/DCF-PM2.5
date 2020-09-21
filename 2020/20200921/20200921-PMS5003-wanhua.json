@@ -1,0 +1,1 @@
+{"Site": "wanhua", "Latitude": 25.046503, "Longitude": 121.507972, "Data_Length": 30, "Feature": "PHR", "Method": "RandomForestRegressor", "Date": "2020-09-21", "Version": "2020-09-21 00:14:29", "Valid_MAE": 2.282}
