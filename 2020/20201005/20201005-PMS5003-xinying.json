@@ -1,0 +1,1 @@
+{"Site": "xinying", "Latitude": 23.305633, "Longitude": 120.31725, "Data_Length": 30, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-10-05", "Version": "2020-10-05 00:18:23", "Valid_MAE": 4.024}
