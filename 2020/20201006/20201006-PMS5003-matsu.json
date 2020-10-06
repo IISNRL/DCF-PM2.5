@@ -1,0 +1,1 @@
+{"Site": "matsu", "Latitude": 26.160469, "Longitude": 119.949875, "Data_Length": 30, "Feature": "PHR", "Method": "RandomForestRegressor", "Date": "2020-10-06", "Version": "2020-10-06 00:15:09", "Valid_MAE": 3.48}
