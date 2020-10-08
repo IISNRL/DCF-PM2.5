@@ -1,0 +1,1 @@
+{"Site": "miaoli", "Latitude": 24.565269, "Longitude": 120.8202, "Data_Length": 30, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-10-08", "Version": "2020-10-08 00:14:15", "Valid_MAE": 3.2710000000000004}
