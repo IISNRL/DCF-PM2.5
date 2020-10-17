@@ -1,0 +1,1 @@
+{"Site": "fengyuan", "Latitude": 24.256586, "Longitude": 120.74171100000001, "Data_Length": 30, "Feature": "PH", "Method": "RandomForestRegressor", "Date": "2020-10-17", "Version": "2020-10-17 00:20:50", "Valid_MAE": 5.819}
