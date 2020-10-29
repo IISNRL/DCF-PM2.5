@@ -1,0 +1,1 @@
+{"Site": "taitung", "Latitude": 22.755357999999998, "Longitude": 121.15045, "Data_Length": 7, "Feature": "PHR", "Method": "RandomForestRegressor", "Date": "2020-10-29", "Version": "2020-10-29 00:21:30", "Valid_MAE": 2.2030000000000003}
