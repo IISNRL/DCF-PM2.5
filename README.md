@@ -5,6 +5,8 @@ Dynamic calibration framework for low-cost PM2.5 sensors<br>
 <span style="color:#6c757d">```Calibration```</span>
 <span style="color:#28a745">```Open```</span>
 
+Latest Update: 2020.11.04
+
 **Dynamic Calibration Model Status Report**: <https://pm25.lass-net.org/DCF/><br>
 **AirBox Status Report**: <https://pm25.lass-net.org/AirBox/><br>
 **PM2.5 Open Data Portal**: <https://pm25.lass-net.org/>
@@ -82,7 +84,7 @@ def find_site( device_lon, device_lat ):
 
     CountingDistance = lambda row: distanceWithCoordinates( row['Latitude'], row['Longitude'], device_lat, device_lon )
     models_info[ 'distance' ] = models_info.apply( CountingDistance, axis=1 )
-    models_sort = models_info.dropna( subset=['distance'] ).sort_values( by="distance" )
+    models_sort = models_info.dropna( subset=['distance'] ).sort_values( by="distance" ).reset_index()
     
     return models_sort['site'][0], models_sort['distance'][0]
     
@@ -98,7 +100,7 @@ import requests
 import urllib
 
 ## config 
-config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003-nantou.config"
+config_url = "https://raw.githubusercontent.com/IISNRL/DCF-PM2.5/master/2020/20200620/20200620-PMS5003-nantou.json"
 r = requests.get(config_url)
 content = r.content
 config_dict = json.loads(content)
@@ -173,8 +175,8 @@ Y_pred = lm.predict( X_test )
    latest-PMS5003-\<sitename\>.joblib<br>
    <https://pm25.lass-net.org/DCF/model/latest-PMS5003-nantou.joblib>
 - **model config:**<br>
-   latest-PMS5003-\<sitename\>.config<br>
-   <https://pm25.lass-net.org/DCF/model/latest-PMS5003-nantou.config>
+   latest-PMS5003-\<sitename\>.json<br>
+   <https://pm25.lass-net.org/DCF/model/latest-PMS5003-nantou.json>
    
 ### Opendata
 [ISNRL/DCF-PM2.5](https://github.com/IISNRL/DCF-PM2.5/tree/master/)
@@ -189,8 +191,8 @@ Y_pred = lm.predict( X_test )
    \<YYYYMMDD\>-PMS5003-\<sitename\>.joblib<br>
    <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200620-PMS5003-nantou.joblib>
 - **model config:**<br>
-   \<YYYYMMDD\>-PMS5003-\<sitename\>.config<br>
-   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200620-PMS5003-nantou.config>
+   \<YYYYMMDD\>-PMS5003-\<sitename\>.json<br>
+   <https://github.com/IISNRL/DCF-PM2.5/blob/master/2020/20200620/20200620-PMS5003-nantou.json>
    
 
 <a name="trouble"></a>
