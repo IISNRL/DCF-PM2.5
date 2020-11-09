@@ -5,7 +5,7 @@ Dynamic calibration framework for low-cost PM2.5 sensors<br>
 <span style="color:#6c757d">```Calibration```</span>
 <span style="color:#28a745">```Open```</span>
 
-Latest Update: 2020.11.04
+**Latest Update: 2020.11.04**
 
 **Dynamic Calibration Model Status Report**: <https://pm25.lass-net.org/DCF/><br>
 **AirBox Status Report**: <https://pm25.lass-net.org/AirBox/><br>
