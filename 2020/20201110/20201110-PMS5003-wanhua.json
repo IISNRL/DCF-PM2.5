@@ -1,1 +1,1 @@
-{"Site": "wanhua", "Latitude": 25.046503, "Longitude": 121.507972, "Data_Length": 14, "Feature": "PHTR", "Method": "LinearRegression", "Date": "2020-11-10", "Version": "2020-11-10 00:12:47", "Valid_MAE": 3.377}
+{"Site": "wanhua", "Latitude": 25.046503, "Longitude": 121.507972, "Data_Length": 14, "Feature": "PHTR", "Method": "LinearRegression", "Date": "2020-11-10", "Version": "2020-11-10 09:27:48", "Valid_MAE": 3.3710000000000004}

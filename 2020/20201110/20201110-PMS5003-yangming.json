@@ -1,1 +1,1 @@
-{"Site": "yangming", "Latitude": 25.182722000000002, "Longitude": 121.529583, "Data_Length": 7, "Feature": "PHR", "Method": "LinearRegression", "Date": "2020-11-10", "Version": "2020-11-10 00:12:43", "Valid_MAE": 5.22}
+{"Site": "yangming", "Latitude": 25.182722000000002, "Longitude": 121.529583, "Data_Length": 7, "Feature": "PHR", "Method": "LinearRegression", "Date": "2020-11-10", "Version": "2020-11-10 09:27:46", "Valid_MAE": 5.204}

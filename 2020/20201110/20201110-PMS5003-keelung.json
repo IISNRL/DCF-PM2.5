@@ -1,1 +1,1 @@
-{"Site": "keelung", "Latitude": 25.129167000000002, "Longitude": 121.760056, "Data_Length": 14, "Feature": "PHT", "Method": "LinearRegression", "Date": "2020-11-10", "Version": "2020-11-10 00:10:51", "Valid_MAE": 3.748}
+{"Site": "keelung", "Latitude": 25.129167000000002, "Longitude": 121.760056, "Data_Length": 14, "Feature": "PHT", "Method": "LinearRegression", "Date": "2020-11-10", "Version": "2020-11-10 09:26:49", "Valid_MAE": 3.7510000000000003}

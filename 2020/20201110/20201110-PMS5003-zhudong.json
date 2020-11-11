@@ -1,1 +1,1 @@
-{"Site": "zhudong", "Latitude": 24.740644, "Longitude": 121.088903, "Data_Length": 30, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-11-10", "Version": "2020-11-10 00:12:06", "Valid_MAE": 2.595}
+{"Site": "zhudong", "Latitude": 24.740644, "Longitude": 121.088903, "Data_Length": 30, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-11-10", "Version": "2020-11-10 09:27:19", "Valid_MAE": 2.591}
