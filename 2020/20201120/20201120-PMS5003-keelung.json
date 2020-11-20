@@ -1,0 +1,1 @@
+{"Site": "keelung", "Latitude": 25.129167000000002, "Longitude": 121.760056, "Data_Length": 30, "Feature": "PT", "Method": "RandomForestRegressor", "Date": "2020-11-20", "Version": "2020-11-20 00:10:01", "Valid_MAE": 4.496}
