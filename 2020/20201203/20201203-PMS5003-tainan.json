@@ -1,0 +1,1 @@
+{"Site": "tainan", "Latitude": 22.984581, "Longitude": 120.20261699999999, "Data_Length": 30, "Feature": "PHR", "Method": "RandomForestRegressor", "Date": "2020-12-03", "Version": "2020-12-03 00:24:26", "Valid_MAE": 3.695}
