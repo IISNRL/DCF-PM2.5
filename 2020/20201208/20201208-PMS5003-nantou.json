@@ -1,0 +1,1 @@
+{"Site": "nantou", "Latitude": 23.913, "Longitude": 120.68530600000001, "Data_Length": 30, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-12-08", "Version": "2020-12-08 00:15:09", "Valid_MAE": 2.8739999999999997}
