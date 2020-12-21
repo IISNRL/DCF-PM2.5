@@ -1,0 +1,1 @@
+{"Site": "sanyi", "Latitude": 24.382942, "Longitude": 120.75883300000001, "Data_Length": 21, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2020-12-20", "Version": "2020-12-20 00:30:43", "Valid_MAE": 3.591}
