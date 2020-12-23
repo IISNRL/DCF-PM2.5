@@ -1,0 +1,1 @@
+{"Site": "hualien", "Latitude": 23.971306, "Longitude": 121.599769, "Data_Length": 21, "Feature": "PHT", "Method": "RandomForestRegressor", "Date": "2020-12-22", "Version": "2020-12-22 00:19:50", "Valid_MAE": 2.529}
