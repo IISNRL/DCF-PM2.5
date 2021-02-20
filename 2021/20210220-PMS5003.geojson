@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Nantou",
+        "Date": "2021-02-20",
+        "Valid_MAE": 6.136,
+        "Version": "2021-02-20 00:06:15",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-nantou.joblib\" target=\"_blank\" title=\"20210220-PMS5003-nantou.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-nantou.json\" target=\"_blank\" title=\"20210220-PMS5003-nantou.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.685,
+          23.913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Chiayi",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.144,
+        "Version": "2021-02-20 00:06:19",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-chiayi.joblib\" target=\"_blank\" title=\"20210220-PMS5003-chiayi.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-chiayi.json\" target=\"_blank\" title=\"20210220-PMS5003-chiayi.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.441,
+          23.463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "SVR",
+        "Data_Length": 21,
+        "SiteName": "Puzi",
+        "Date": "2021-02-20",
+        "Valid_MAE": 5.717,
+        "Version": "2021-02-20 00:06:27",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-puzi.joblib\" target=\"_blank\" title=\"20210220-PMS5003-puzi.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-puzi.json\" target=\"_blank\" title=\"20210220-PMS5003-puzi.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.248,
+          23.467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "GAM",
+        "Data_Length": 30,
+        "SiteName": "Keelung",
+        "Date": "2021-02-20",
+        "Valid_MAE": 2.863,
+        "Version": "2021-02-20 00:06:32",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-keelung.joblib\" target=\"_blank\" title=\"20210220-PMS5003-keelung.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-keelung.json\" target=\"_blank\" title=\"20210220-PMS5003-keelung.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.76,
+          25.129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "SVR",
+        "Data_Length": 7,
+        "SiteName": "Yilan",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.661,
+        "Version": "2021-02-20 00:06:37",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-yilan.joblib\" target=\"_blank\" title=\"20210220-PMS5003-yilan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-yilan.json\" target=\"_blank\" title=\"20210220-PMS5003-yilan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.746,
+          24.748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "GAM",
+        "Data_Length": 30,
+        "SiteName": "Hengchun",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.81,
+        "Version": "2021-02-20 00:06:41",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-hengchun.joblib\" target=\"_blank\" title=\"20210220-PMS5003-hengchun.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-hengchun.json\" target=\"_blank\" title=\"20210220-PMS5003-hengchun.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.789,
+          21.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "BayesianRidge",
+        "Data_Length": 7,
+        "SiteName": "Pingtung",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.605,
+        "Version": "2021-02-20 00:06:48",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-pingtung.joblib\" target=\"_blank\" title=\"20210220-PMS5003-pingtung.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-pingtung.json\" target=\"_blank\" title=\"20210220-PMS5003-pingtung.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.488,
+          22.673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "RidgeRegression",
+        "Data_Length": 30,
+        "SiteName": "Changhua",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.433,
+        "Version": "2021-02-20 00:06:51",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-changhua.joblib\" target=\"_blank\" title=\"20210220-PMS5003-changhua.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-changhua.json\" target=\"_blank\" title=\"20210220-PMS5003-changhua.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.542,
+          24.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Banqiao",
+        "Date": "2021-02-20",
+        "Valid_MAE": 2.898,
+        "Version": "2021-02-20 00:06:54",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-banqiao.joblib\" target=\"_blank\" title=\"20210220-PMS5003-banqiao.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-banqiao.json\" target=\"_blank\" title=\"20210220-PMS5003-banqiao.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.459,
+          25.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Xizhi",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.125,
+        "Version": "2021-02-20 00:07:01",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-xizhi.joblib\" target=\"_blank\" title=\"20210220-PMS5003-xizhi.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-xizhi.json\" target=\"_blank\" title=\"20210220-PMS5003-xizhi.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.642,
+          25.067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PTR",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Hsinchu",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.202,
+        "Version": "2021-02-20 00:07:08",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-hsinchu.joblib\" target=\"_blank\" title=\"20210220-PMS5003-hsinchu.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-hsinchu.json\" target=\"_blank\" title=\"20210220-PMS5003-hsinchu.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.972,
+          24.806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PTR",
+        "Method": "GAM",
+        "Data_Length": 30,
+        "SiteName": "Zhudong",
+        "Date": "2021-02-20",
+        "Valid_MAE": 2.541,
+        "Version": "2021-02-20 00:07:13",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-zhudong.joblib\" target=\"_blank\" title=\"20210220-PMS5003-zhudong.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-zhudong.json\" target=\"_blank\" title=\"20210220-PMS5003-zhudong.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.089,
+          24.741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "GAM",
+        "Data_Length": 30,
+        "SiteName": "Taoyuan",
+        "Date": "2021-02-20",
+        "Valid_MAE": 2.951,
+        "Version": "2021-02-20 00:07:18",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20210220-PMS5003-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-taoyuan.json\" target=\"_blank\" title=\"20210220-PMS5003-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Magong",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.386,
+        "Version": "2021-02-20 00:07:24",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-magong.joblib\" target=\"_blank\" title=\"20210220-PMS5003-magong.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-magong.json\" target=\"_blank\" title=\"20210220-PMS5003-magong.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.566,
+          23.569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PT",
+        "Method": "SVR",
+        "Data_Length": 21,
+        "SiteName": "Zhongming",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.938,
+        "Version": "2021-02-20 00:07:29",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20210220-PMS5003-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-zhongming.json\" target=\"_blank\" title=\"20210220-PMS5003-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Fengyuan",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.489,
+        "Version": "2021-02-20 00:07:33",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-fengyuan.joblib\" target=\"_blank\" title=\"20210220-PMS5003-fengyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-fengyuan.json\" target=\"_blank\" title=\"20210220-PMS5003-fengyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.742,
+          24.257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "RidgeRegression",
+        "Data_Length": 30,
+        "SiteName": "Yangming",
+        "Date": "2021-02-20",
+        "Valid_MAE": 2.726,
+        "Version": "2021-02-20 00:07:35",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-yangming.joblib\" target=\"_blank\" title=\"20210220-PMS5003-yangming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-yangming.json\" target=\"_blank\" title=\"20210220-PMS5003-yangming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          25.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Wanhua",
+        "Date": "2021-02-20",
+        "Valid_MAE": 2.85,
+        "Version": "2021-02-20 00:07:38",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-wanhua.joblib\" target=\"_blank\" title=\"20210220-PMS5003-wanhua.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-wanhua.json\" target=\"_blank\" title=\"20210220-PMS5003-wanhua.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508,
+          25.047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "LinearRegression",
+        "Data_Length": 30,
+        "SiteName": "Shilin",
+        "Date": "2021-02-20",
+        "Valid_MAE": 5.938,
+        "Version": "2021-02-20 00:07:39",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-shilin.joblib\" target=\"_blank\" title=\"20210220-PMS5003-shilin.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-shilin.json\" target=\"_blank\" title=\"20210220-PMS5003-shilin.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515,
+          25.105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "P",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Tainan",
+        "Date": "2021-02-20",
+        "Valid_MAE": 5.079,
+        "Version": "2021-02-20 00:07:42",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-tainan.joblib\" target=\"_blank\" title=\"20210220-PMS5003-tainan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-tainan.json\" target=\"_blank\" title=\"20210220-PMS5003-tainan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.203,
+          22.985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 7,
+        "SiteName": "Xinying",
+        "Date": "2021-02-20",
+        "Valid_MAE": 7.156,
+        "Version": "2021-02-20 00:07:45",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-xinying.joblib\" target=\"_blank\" title=\"20210220-PMS5003-xinying.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-xinying.json\" target=\"_blank\" title=\"20210220-PMS5003-xinying.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.317,
+          23.306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "SVR",
+        "Data_Length": 21,
+        "SiteName": "Taitung",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.398,
+        "Version": "2021-02-20 00:07:53",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-taitung.joblib\" target=\"_blank\" title=\"20210220-PMS5003-taitung.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-taitung.json\" target=\"_blank\" title=\"20210220-PMS5003-taitung.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.15,
+          22.755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Hualien",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.853,
+        "Version": "2021-02-20 00:07:58",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-hualien.joblib\" target=\"_blank\" title=\"20210220-PMS5003-hualien.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-hualien.json\" target=\"_blank\" title=\"20210220-PMS5003-hualien.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6,
+          23.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 7,
+        "SiteName": "Sanyi",
+        "Date": "2021-02-20",
+        "Valid_MAE": 5.434,
+        "Version": "2021-02-20 00:08:01",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-sanyi.joblib\" target=\"_blank\" title=\"20210220-PMS5003-sanyi.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-sanyi.json\" target=\"_blank\" title=\"20210220-PMS5003-sanyi.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.759,
+          24.383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "GAM",
+        "Data_Length": 30,
+        "SiteName": "Miaoli",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.524,
+        "Version": "2021-02-20 00:08:05",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-miaoli.joblib\" target=\"_blank\" title=\"20210220-PMS5003-miaoli.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-miaoli.json\" target=\"_blank\" title=\"20210220-PMS5003-miaoli.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          24.565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Matsu",
+        "Date": "2021-02-20",
+        "Valid_MAE": 3.86,
+        "Version": "2021-02-20 00:08:11",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-matsu.joblib\" target=\"_blank\" title=\"20210220-PMS5003-matsu.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-matsu.json\" target=\"_blank\" title=\"20210220-PMS5003-matsu.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.95,
+          26.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "GAM",
+        "Data_Length": 30,
+        "SiteName": "Kinmen",
+        "Date": "2021-02-20",
+        "Valid_MAE": 5.235,
+        "Version": "2021-02-20 00:08:17",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-kinmen.joblib\" target=\"_blank\" title=\"20210220-PMS5003-kinmen.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-kinmen.json\" target=\"_blank\" title=\"20210220-PMS5003-kinmen.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.312,
+          24.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "P",
+        "Method": "SVR",
+        "Data_Length": 7,
+        "SiteName": "Douliu",
+        "Date": "2021-02-20",
+        "Valid_MAE": 4.351,
+        "Version": "2021-02-20 00:08:22",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-douliu.joblib\" target=\"_blank\" title=\"20210220-PMS5003-douliu.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-douliu.json\" target=\"_blank\" title=\"20210220-PMS5003-douliu.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.545,
+          23.712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PR",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Qianjin",
+        "Date": "2021-02-20",
+        "Valid_MAE": 5.031,
+        "Version": "2021-02-20 00:08:25",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-qianjin.joblib\" target=\"_blank\" title=\"20210220-PMS5003-qianjin.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-qianjin.json\" target=\"_blank\" title=\"20210220-PMS5003-qianjin.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.288,
+          22.633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "GAM",
+        "Data_Length": 21,
+        "SiteName": "Meinong",
+        "Date": "2021-02-20",
+        "Valid_MAE": 7.531,
+        "Version": "2021-02-20 00:08:28",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-meinong.joblib\" target=\"_blank\" title=\"20210220-PMS5003-meinong.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210220/20210220-PMS5003-meinong.json\" target=\"_blank\" title=\"20210220-PMS5003-meinong.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.531,
+          22.884
+        ]
+      }
+    }
+  ]
+}
