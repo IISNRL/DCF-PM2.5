@@ -10,7 +10,7 @@
         "SiteName": "Nantou",
         "Date": "2021-04-25",
         "Valid_MAE": 16.045,
-        "Version": "2021-04-25 00:05:11",
+        "Version": "2021-04-25 19:08:06",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-nantou.joblib\" target=\"_blank\" title=\"20210425-PMS5003-nantou.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-nantou.json\" target=\"_blank\" title=\"20210425-PMS5003-nantou.json\">Link to File</a>"
       },
@@ -26,12 +26,12 @@
       "type": "Feature",
       "properties": {
         "Feature": "PHTR",
-        "Method": "SVR",
-        "Data_Length": 14,
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
         "SiteName": "Chiayi",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.844,
-        "Version": "2021-04-25 00:05:15",
+        "Valid_MAE": 5.464,
+        "Version": "2021-04-25 19:08:09",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-chiayi.joblib\" target=\"_blank\" title=\"20210425-PMS5003-chiayi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-chiayi.json\" target=\"_blank\" title=\"20210425-PMS5003-chiayi.json\">Link to File</a>"
       },
@@ -46,13 +46,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PHTR",
-        "Method": "SVR",
-        "Data_Length": 21,
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
         "SiteName": "Puzi",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.078,
-        "Version": "2021-04-25 00:05:17",
+        "Valid_MAE": 5.136,
+        "Version": "2021-04-25 19:08:18",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-puzi.joblib\" target=\"_blank\" title=\"20210425-PMS5003-puzi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-puzi.json\" target=\"_blank\" title=\"20210425-PMS5003-puzi.json\">Link to File</a>"
       },
@@ -67,13 +67,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PR",
+        "Feature": "PHTR",
         "Method": "RandomForestRegressor",
-        "Data_Length": 30,
+        "Data_Length": 7,
         "SiteName": "Keelung",
         "Date": "2021-04-25",
-        "Valid_MAE": 2.316,
-        "Version": "2021-04-25 00:05:18",
+        "Valid_MAE": 2.766,
+        "Version": "2021-04-25 19:08:25",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-keelung.joblib\" target=\"_blank\" title=\"20210425-PMS5003-keelung.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-keelung.json\" target=\"_blank\" title=\"20210425-PMS5003-keelung.json\">Link to File</a>"
       },
@@ -88,13 +88,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PT",
-        "Method": "SVR",
-        "Data_Length": 7,
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Yilan",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.78,
-        "Version": "2021-04-25 00:05:25",
+        "Valid_MAE": 5.099,
+        "Version": "2021-04-25 19:08:34",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-yilan.joblib\" target=\"_blank\" title=\"20210425-PMS5003-yilan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-yilan.json\" target=\"_blank\" title=\"20210425-PMS5003-yilan.json\">Link to File</a>"
       },
@@ -109,13 +109,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "SVR",
-        "Data_Length": 30,
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 7,
         "SiteName": "Hengchun",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.39,
-        "Version": "2021-04-25 00:05:27",
+        "Valid_MAE": 5.437,
+        "Version": "2021-04-25 19:08:41",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-hengchun.joblib\" target=\"_blank\" title=\"20210425-PMS5003-hengchun.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-hengchun.json\" target=\"_blank\" title=\"20210425-PMS5003-hengchun.json\">Link to File</a>"
       },
@@ -130,13 +130,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PHT",
-        "Method": "SVR",
-        "Data_Length": 30,
+        "Feature": "PH",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Pingtung",
         "Date": "2021-04-25",
-        "Valid_MAE": 3.681,
-        "Version": "2021-04-25 00:05:29",
+        "Valid_MAE": 4.261,
+        "Version": "2021-04-25 19:08:50",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-pingtung.joblib\" target=\"_blank\" title=\"20210425-PMS5003-pingtung.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-pingtung.json\" target=\"_blank\" title=\"20210425-PMS5003-pingtung.json\">Link to File</a>"
       },
@@ -151,13 +151,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PHT",
-        "Method": "GAM",
-        "Data_Length": 14,
+        "Feature": "PTR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 21,
         "SiteName": "Changhua",
         "Date": "2021-04-25",
-        "Valid_MAE": 6.136,
-        "Version": "2021-04-25 00:05:31",
+        "Valid_MAE": 5.406,
+        "Version": "2021-04-25 19:08:56",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-changhua.joblib\" target=\"_blank\" title=\"20210425-PMS5003-changhua.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-changhua.json\" target=\"_blank\" title=\"20210425-PMS5003-changhua.json\">Link to File</a>"
       },
@@ -172,13 +172,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "P",
-        "Method": "SVR",
-        "Data_Length": 21,
+        "Feature": "PHTR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 7,
         "SiteName": "Banqiao",
         "Date": "2021-04-25",
-        "Valid_MAE": 2.632,
-        "Version": "2021-04-25 00:05:37",
+        "Valid_MAE": 3.225,
+        "Version": "2021-04-25 19:09:05",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-banqiao.joblib\" target=\"_blank\" title=\"20210425-PMS5003-banqiao.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-banqiao.json\" target=\"_blank\" title=\"20210425-PMS5003-banqiao.json\">Link to File</a>"
       },
@@ -193,13 +193,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "SVR",
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
         "Data_Length": 7,
         "SiteName": "Xizhi",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.999,
-        "Version": "2021-04-25 00:05:39",
+        "Valid_MAE": 5.311,
+        "Version": "2021-04-25 19:09:12",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-xizhi.joblib\" target=\"_blank\" title=\"20210425-PMS5003-xizhi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-xizhi.json\" target=\"_blank\" title=\"20210425-PMS5003-xizhi.json\">Link to File</a>"
       },
@@ -214,13 +214,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "P",
-        "Method": "SVR",
-        "Data_Length": 14,
+        "Feature": "PHTR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 7,
         "SiteName": "Hsinchu",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.609,
-        "Version": "2021-04-25 00:05:41",
+        "Valid_MAE": 6.63,
+        "Version": "2021-04-25 19:09:19",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-hsinchu.joblib\" target=\"_blank\" title=\"20210425-PMS5003-hsinchu.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-hsinchu.json\" target=\"_blank\" title=\"20210425-PMS5003-hsinchu.json\">Link to File</a>"
       },
@@ -235,13 +235,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "GAM",
-        "Data_Length": 30,
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Zhudong",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.791,
-        "Version": "2021-04-25 00:05:42",
+        "Valid_MAE": 4.867,
+        "Version": "2021-04-25 19:09:25",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-zhudong.joblib\" target=\"_blank\" title=\"20210425-PMS5003-zhudong.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-zhudong.json\" target=\"_blank\" title=\"20210425-PMS5003-zhudong.json\">Link to File</a>"
       },
@@ -256,13 +256,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "P",
-        "Method": "SVR",
-        "Data_Length": 7,
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Taoyuan",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.466,
-        "Version": "2021-04-25 00:05:48",
+        "Valid_MAE": 5.609,
+        "Version": "2021-04-25 19:09:35",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20210425-PMS5003-taoyuan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-taoyuan.json\" target=\"_blank\" title=\"20210425-PMS5003-taoyuan.json\">Link to File</a>"
       },
@@ -277,13 +277,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PR",
-        "Method": "SVR",
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
         "Data_Length": 7,
         "SiteName": "Magong",
         "Date": "2021-04-25",
-        "Valid_MAE": 6.949,
-        "Version": "2021-04-25 00:05:49",
+        "Valid_MAE": 7.415,
+        "Version": "2021-04-25 19:09:44",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-magong.joblib\" target=\"_blank\" title=\"20210425-PMS5003-magong.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-magong.json\" target=\"_blank\" title=\"20210425-PMS5003-magong.json\">Link to File</a>"
       },
@@ -298,13 +298,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PHTR",
-        "Method": "SVR",
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
         "Data_Length": 14,
         "SiteName": "Zhongming",
         "Date": "2021-04-25",
-        "Valid_MAE": 3.798,
-        "Version": "2021-04-25 00:05:53",
+        "Valid_MAE": 4.561,
+        "Version": "2021-04-25 19:09:53",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20210425-PMS5003-zhongming.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-zhongming.json\" target=\"_blank\" title=\"20210425-PMS5003-zhongming.json\">Link to File</a>"
       },
@@ -320,12 +320,12 @@
       "type": "Feature",
       "properties": {
         "Feature": "PTR",
-        "Method": "GAM",
+        "Method": "RandomForestRegressor",
         "Data_Length": 14,
         "SiteName": "Fengyuan",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.511,
-        "Version": "2021-04-25 00:05:54",
+        "Valid_MAE": 4.759,
+        "Version": "2021-04-25 19:10:03",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-fengyuan.joblib\" target=\"_blank\" title=\"20210425-PMS5003-fengyuan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-fengyuan.json\" target=\"_blank\" title=\"20210425-PMS5003-fengyuan.json\">Link to File</a>"
       },
@@ -340,13 +340,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "GAM",
-        "Data_Length": 7,
+        "Feature": "PTR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
         "SiteName": "Wanhua",
         "Date": "2021-04-25",
-        "Valid_MAE": 3.923,
-        "Version": "2021-04-25 00:06:00",
+        "Valid_MAE": 3.612,
+        "Version": "2021-04-25 19:10:14",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-wanhua.joblib\" target=\"_blank\" title=\"20210425-PMS5003-wanhua.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-wanhua.json\" target=\"_blank\" title=\"20210425-PMS5003-wanhua.json\">Link to File</a>"
       },
@@ -361,13 +361,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PHTR",
-        "Method": "GAM",
+        "Feature": "PTR",
+        "Method": "RandomForestRegressor",
         "Data_Length": 30,
         "SiteName": "Tainan",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.516,
-        "Version": "2021-04-25 00:06:07",
+        "Valid_MAE": 4.865,
+        "Version": "2021-04-25 19:10:32",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-tainan.joblib\" target=\"_blank\" title=\"20210425-PMS5003-tainan.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-tainan.json\" target=\"_blank\" title=\"20210425-PMS5003-tainan.json\">Link to File</a>"
       },
@@ -382,13 +382,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "GAM",
-        "Data_Length": 21,
+        "Feature": "PHTR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Xinying",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.755,
-        "Version": "2021-04-25 00:06:12",
+        "Valid_MAE": 5.898,
+        "Version": "2021-04-25 19:10:48",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-xinying.joblib\" target=\"_blank\" title=\"20210425-PMS5003-xinying.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-xinying.json\" target=\"_blank\" title=\"20210425-PMS5003-xinying.json\">Link to File</a>"
       },
@@ -404,12 +404,12 @@
       "type": "Feature",
       "properties": {
         "Feature": "PHTR",
-        "Method": "SVR",
-        "Data_Length": 30,
+        "Method": "RandomForestRegressor",
+        "Data_Length": 21,
         "SiteName": "Taitung",
         "Date": "2021-04-25",
-        "Valid_MAE": 3.419,
-        "Version": "2021-04-25 00:06:18",
+        "Valid_MAE": 4.66,
+        "Version": "2021-04-25 19:11:00",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-taitung.joblib\" target=\"_blank\" title=\"20210425-PMS5003-taitung.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-taitung.json\" target=\"_blank\" title=\"20210425-PMS5003-taitung.json\">Link to File</a>"
       },
@@ -424,13 +424,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "SVR",
-        "Data_Length": 30,
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Sanyi",
         "Date": "2021-04-25",
-        "Valid_MAE": 7.046,
-        "Version": "2021-04-25 00:06:20",
+        "Valid_MAE": 6.68,
+        "Version": "2021-04-25 19:11:09",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-sanyi.joblib\" target=\"_blank\" title=\"20210425-PMS5003-sanyi.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-sanyi.json\" target=\"_blank\" title=\"20210425-PMS5003-sanyi.json\">Link to File</a>"
       },
@@ -445,13 +445,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PHR",
-        "Method": "SVR",
-        "Data_Length": 14,
+        "Feature": "PHTR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
         "SiteName": "Miaoli",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.012,
-        "Version": "2021-04-25 00:06:22",
+        "Valid_MAE": 5.293,
+        "Version": "2021-04-25 19:11:20",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-miaoli.joblib\" target=\"_blank\" title=\"20210425-PMS5003-miaoli.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-miaoli.json\" target=\"_blank\" title=\"20210425-PMS5003-miaoli.json\">Link to File</a>"
       },
@@ -467,12 +467,12 @@
       "type": "Feature",
       "properties": {
         "Feature": "PH",
-        "Method": "SVR",
-        "Data_Length": 7,
+        "Method": "RandomForestRegressor",
+        "Data_Length": 21,
         "SiteName": "Matsu",
         "Date": "2021-04-25",
-        "Valid_MAE": 6.228,
-        "Version": "2021-04-25 00:06:23",
+        "Valid_MAE": 6.6,
+        "Version": "2021-04-25 19:11:32",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-matsu.joblib\" target=\"_blank\" title=\"20210425-PMS5003-matsu.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-matsu.json\" target=\"_blank\" title=\"20210425-PMS5003-matsu.json\">Link to File</a>"
       },
@@ -487,13 +487,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PTR",
-        "Method": "SVR",
-        "Data_Length": 14,
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
         "SiteName": "Kinmen",
         "Date": "2021-04-25",
-        "Valid_MAE": 5.631,
-        "Version": "2021-04-25 00:06:25",
+        "Valid_MAE": 7.128,
+        "Version": "2021-04-25 19:11:39",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-kinmen.joblib\" target=\"_blank\" title=\"20210425-PMS5003-kinmen.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-kinmen.json\" target=\"_blank\" title=\"20210425-PMS5003-kinmen.json\">Link to File</a>"
       },
@@ -508,13 +508,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PH",
-        "Method": "SVR",
-        "Data_Length": 21,
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
         "SiteName": "Douliu",
         "Date": "2021-04-25",
-        "Valid_MAE": 4.841,
-        "Version": "2021-04-25 00:06:26",
+        "Valid_MAE": 4.913,
+        "Version": "2021-04-25 19:11:49",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-douliu.joblib\" target=\"_blank\" title=\"20210425-PMS5003-douliu.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-douliu.json\" target=\"_blank\" title=\"20210425-PMS5003-douliu.json\">Link to File</a>"
       },
@@ -529,13 +529,13 @@
     {
       "type": "Feature",
       "properties": {
-        "Feature": "PR",
-        "Method": "SVR",
-        "Data_Length": 30,
+        "Feature": "PHT",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
         "SiteName": "Qianjin",
         "Date": "2021-04-25",
-        "Valid_MAE": 3.92,
-        "Version": "2021-04-25 00:06:31",
+        "Valid_MAE": 4.094,
+        "Version": "2021-04-25 19:12:01",
         "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-qianjin.joblib\" target=\"_blank\" title=\"20210425-PMS5003-qianjin.joblib\">Link to File</a>",
         "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210425/20210425-PMS5003-qianjin.json\" target=\"_blank\" title=\"20210425-PMS5003-qianjin.json\">Link to File</a>"
       },

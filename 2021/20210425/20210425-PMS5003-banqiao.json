@@ -1,1 +1,1 @@
-{"Site": "banqiao", "Latitude": 25.012972, "Longitude": 121.45866699999999, "Data_Length": 21, "Feature": "P", "Method": "SVR", "Date": "2021-04-25", "Version": "2021-04-25 00:05:37", "Valid_MAE": 2.6319999999999997}
+{"Site": "banqiao", "Latitude": 25.012972, "Longitude": 121.45866699999999, "Data_Length": 7, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2021-04-25", "Version": "2021-04-25 19:09:05", "Valid_MAE": 3.225}

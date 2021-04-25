@@ -1,1 +1,1 @@
-{"Site": "tainan", "Latitude": 22.984581, "Longitude": 120.20261699999999, "Data_Length": 30, "Feature": "PHTR", "Method": "GAM", "Date": "2021-04-25", "Version": "2021-04-25 00:06:07", "Valid_MAE": 4.516}
+{"Site": "tainan", "Latitude": 22.984581, "Longitude": 120.20261699999999, "Data_Length": 30, "Feature": "PTR", "Method": "RandomForestRegressor", "Date": "2021-04-25", "Version": "2021-04-25 19:10:32", "Valid_MAE": 4.865}

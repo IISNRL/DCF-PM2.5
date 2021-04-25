@@ -1,1 +1,1 @@
-{"Site": "yilan", "Latitude": 24.747917, "Longitude": 121.746394, "Data_Length": 7, "Feature": "PT", "Method": "SVR", "Date": "2021-04-25", "Version": "2021-04-25 00:05:25", "Valid_MAE": 4.78}
+{"Site": "yilan", "Latitude": 24.747917, "Longitude": 121.746394, "Data_Length": 14, "Feature": "PHR", "Method": "RandomForestRegressor", "Date": "2021-04-25", "Version": "2021-04-25 19:08:34", "Valid_MAE": 5.099}

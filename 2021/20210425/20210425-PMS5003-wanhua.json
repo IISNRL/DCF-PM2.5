@@ -1,1 +1,1 @@
-{"Site": "wanhua", "Latitude": 25.046503, "Longitude": 121.507972, "Data_Length": 7, "Feature": "PH", "Method": "GAM", "Date": "2021-04-25", "Version": "2021-04-25 00:06:00", "Valid_MAE": 3.923}
+{"Site": "wanhua", "Latitude": 25.046503, "Longitude": 121.507972, "Data_Length": 30, "Feature": "PTR", "Method": "RandomForestRegressor", "Date": "2021-04-25", "Version": "2021-04-25 19:10:14", "Valid_MAE": 3.612}

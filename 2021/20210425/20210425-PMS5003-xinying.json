@@ -1,1 +1,1 @@
-{"Site": "xinying", "Latitude": 23.305633, "Longitude": 120.31725, "Data_Length": 21, "Feature": "PH", "Method": "GAM", "Date": "2021-04-25", "Version": "2021-04-25 00:06:12", "Valid_MAE": 5.755}
+{"Site": "xinying", "Latitude": 23.305633, "Longitude": 120.31725, "Data_Length": 14, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2021-04-25", "Version": "2021-04-25 19:10:48", "Valid_MAE": 5.898}
