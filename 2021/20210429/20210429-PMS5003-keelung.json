@@ -1,0 +1,1 @@
+{"Site": "keelung", "Latitude": 25.129167000000002, "Longitude": 121.760056, "Data_Length": 7, "Feature": "PHTR", "Method": "RandomForestRegressor", "Date": "2021-04-29", "Version": "2021-04-29 00:07:25", "Valid_MAE": 2.155}
