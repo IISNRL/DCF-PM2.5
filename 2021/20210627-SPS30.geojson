@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Yilan",
+        "Date": "2021-06-27",
+        "Valid_MAE": 1.876,
+        "Version": "2021-06-27 00:02:45",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-yilan.joblib\" target=\"_blank\" title=\"20210627-SPS30-yilan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-yilan.json\" target=\"_blank\" title=\"20210627-SPS30-yilan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.746,
+          24.748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Hengchun",
+        "Date": "2021-06-27",
+        "Valid_MAE": 1.685,
+        "Version": "2021-06-27 00:02:47",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-hengchun.joblib\" target=\"_blank\" title=\"20210627-SPS30-hengchun.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-hengchun.json\" target=\"_blank\" title=\"20210627-SPS30-hengchun.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.789,
+          21.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "P",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 7,
+        "SiteName": "Zhudong",
+        "Date": "2021-06-27",
+        "Valid_MAE": 2.417,
+        "Version": "2021-06-27 00:02:54",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-zhudong.joblib\" target=\"_blank\" title=\"20210627-SPS30-zhudong.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-zhudong.json\" target=\"_blank\" title=\"20210627-SPS30-zhudong.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.089,
+          24.741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Taoyuan",
+        "Date": "2021-06-27",
+        "Valid_MAE": 2.45,
+        "Version": "2021-06-27 00:03:01",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-taoyuan.joblib\" target=\"_blank\" title=\"20210627-SPS30-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-taoyuan.json\" target=\"_blank\" title=\"20210627-SPS30-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Zhongming",
+        "Date": "2021-06-27",
+        "Valid_MAE": 1.83,
+        "Version": "2021-06-27 00:03:04",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-zhongming.joblib\" target=\"_blank\" title=\"20210627-SPS30-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-zhongming.json\" target=\"_blank\" title=\"20210627-SPS30-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Yangming",
+        "Date": "2021-06-27",
+        "Valid_MAE": 2.15,
+        "Version": "2021-06-27 00:03:08",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-yangming.joblib\" target=\"_blank\" title=\"20210627-SPS30-yangming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-yangming.json\" target=\"_blank\" title=\"20210627-SPS30-yangming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          25.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PT",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
+        "SiteName": "Shilin",
+        "Date": "2021-06-27",
+        "Valid_MAE": 2.224,
+        "Version": "2021-06-27 00:03:12",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-shilin.joblib\" target=\"_blank\" title=\"20210627-SPS30-shilin.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-shilin.json\" target=\"_blank\" title=\"20210627-SPS30-shilin.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.515,
+          25.105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Miaoli",
+        "Date": "2021-06-27",
+        "Valid_MAE": 3.658,
+        "Version": "2021-06-27 00:03:21",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-miaoli.joblib\" target=\"_blank\" title=\"20210627-SPS30-miaoli.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2021/20210627/20210627-SPS30-miaoli.json\" target=\"_blank\" title=\"20210627-SPS30-miaoli.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          24.565
+        ]
+      }
+    }
+  ]
+}
