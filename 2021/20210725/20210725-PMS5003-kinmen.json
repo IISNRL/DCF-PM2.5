@@ -1,0 +1,1 @@
+{"Site": "kinmen", "Latitude": 24.432133, "Longitude": 118.312256, "Data_Length": 21, "Feature": "PHR", "Method": "RandomForestRegressor", "Date": "2021-07-25", "Version": "2021-07-25 00:10:23", "Valid_MAE": 2.668}
