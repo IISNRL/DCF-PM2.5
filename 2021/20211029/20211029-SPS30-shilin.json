@@ -1,0 +1,1 @@
+{"Site": "shilin", "Latitude": 25.105417000000006, "Longitude": 121.51538899999998, "Data_Length": 30, "Feature": "PTR", "Method": "RandomForestRegressor", "Date": "2021-10-29", "Version": "2021-10-29 00:03:03", "Valid_MAE": 2.255}
