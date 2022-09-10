@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PTR",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Yilan",
+        "Date": "2022-09-10",
+        "Valid_MAE": 2.056,
+        "Version": "2022-09-10 00:03:44",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-yilan.joblib\" target=\"_blank\" title=\"20220910-SPS30-yilan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-yilan.json\" target=\"_blank\" title=\"20220910-SPS30-yilan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.746,
+          24.748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "BayesianRidge",
+        "Data_Length": 30,
+        "SiteName": "Taoyuan",
+        "Date": "2022-09-10",
+        "Valid_MAE": 2.647,
+        "Version": "2022-09-10 00:03:55",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-taoyuan.joblib\" target=\"_blank\" title=\"20220910-SPS30-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-taoyuan.json\" target=\"_blank\" title=\"20220910-SPS30-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PTR",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Zhongming",
+        "Date": "2022-09-10",
+        "Valid_MAE": 2.2,
+        "Version": "2022-09-10 00:04:02",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-zhongming.joblib\" target=\"_blank\" title=\"20220910-SPS30-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-zhongming.json\" target=\"_blank\" title=\"20220910-SPS30-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
+        "SiteName": "Yangming",
+        "Date": "2022-09-10",
+        "Valid_MAE": 3.882,
+        "Version": "2022-09-10 00:04:13",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-yangming.joblib\" target=\"_blank\" title=\"20220910-SPS30-yangming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-yangming.json\" target=\"_blank\" title=\"20220910-SPS30-yangming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          25.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "RidgeRegression",
+        "Data_Length": 7,
+        "SiteName": "Miaoli",
+        "Date": "2022-09-10",
+        "Valid_MAE": 3.276,
+        "Version": "2022-09-10 00:04:29",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-miaoli.joblib\" target=\"_blank\" title=\"20220910-SPS30-miaoli.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20220910/20220910-SPS30-miaoli.json\" target=\"_blank\" title=\"20220910-SPS30-miaoli.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          24.565
+        ]
+      }
+    }
+  ]
+}
