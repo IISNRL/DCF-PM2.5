@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Yilan",
+        "Date": "2022-10-13",
+        "Valid_MAE": 2.083,
+        "Version": "2022-10-13 00:03:21",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-yilan.joblib\" target=\"_blank\" title=\"20221013-SPS30-yilan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-yilan.json\" target=\"_blank\" title=\"20221013-SPS30-yilan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.746,
+          24.748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "P",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Taoyuan",
+        "Date": "2022-10-13",
+        "Valid_MAE": 2.618,
+        "Version": "2022-10-13 00:03:28",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-taoyuan.joblib\" target=\"_blank\" title=\"20221013-SPS30-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-taoyuan.json\" target=\"_blank\" title=\"20221013-SPS30-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PT",
+        "Method": "SVR",
+        "Data_Length": 7,
+        "SiteName": "Zhongming",
+        "Date": "2022-10-13",
+        "Valid_MAE": 2.017,
+        "Version": "2022-10-13 00:03:34",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-zhongming.joblib\" target=\"_blank\" title=\"20221013-SPS30-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-zhongming.json\" target=\"_blank\" title=\"20221013-SPS30-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "GAM",
+        "Data_Length": 7,
+        "SiteName": "Yangming",
+        "Date": "2022-10-13",
+        "Valid_MAE": 1.629,
+        "Version": "2022-10-13 00:03:36",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-yangming.joblib\" target=\"_blank\" title=\"20221013-SPS30-yangming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-yangming.json\" target=\"_blank\" title=\"20221013-SPS30-yangming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          25.183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "P",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
+        "SiteName": "Miaoli",
+        "Date": "2022-10-13",
+        "Valid_MAE": 3.008,
+        "Version": "2022-10-13 00:03:50",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-miaoli.joblib\" target=\"_blank\" title=\"20221013-SPS30-miaoli.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221013/20221013-SPS30-miaoli.json\" target=\"_blank\" title=\"20221013-SPS30-miaoli.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.82,
+          24.565
+        ]
+      }
+    }
+  ]
+}
