@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PT",
+        "Method": "RidgeRegression",
+        "Data_Length": 14,
+        "SiteName": "Banqiao",
+        "Date": "2022-12-05",
+        "Valid_MAE": 2.122,
+        "Version": "2022-12-05 00:02:56",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-banqiao.joblib\" target=\"_blank\" title=\"20221205-PMS5003-banqiao.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-banqiao.json\" target=\"_blank\" title=\"20221205-PMS5003-banqiao.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.459,
+          25.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Taoyuan",
+        "Date": "2022-12-05",
+        "Valid_MAE": 3.207,
+        "Version": "2022-12-05 00:03:00",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20221205-PMS5003-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-taoyuan.json\" target=\"_blank\" title=\"20221205-PMS5003-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHT",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Zhongming",
+        "Date": "2022-12-05",
+        "Valid_MAE": 3.871,
+        "Version": "2022-12-05 00:03:16",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20221205-PMS5003-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-zhongming.json\" target=\"_blank\" title=\"20221205-PMS5003-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHTR",
+        "Method": "SVR",
+        "Data_Length": 14,
+        "SiteName": "Wanhua",
+        "Date": "2022-12-05",
+        "Valid_MAE": 2.384,
+        "Version": "2022-12-05 00:03:24",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-wanhua.joblib\" target=\"_blank\" title=\"20221205-PMS5003-wanhua.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2022/20221205/20221205-PMS5003-wanhua.json\" target=\"_blank\" title=\"20221205-PMS5003-wanhua.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508,
+          25.047
+        ]
+      }
+    }
+  ]
+}
