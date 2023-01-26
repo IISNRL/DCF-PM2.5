@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 30,
+        "SiteName": "Yangming",
+        "Date": "2023-01-26",
+        "Valid_MAE": 3.111,
+        "Version": "2023-01-26 00:00:40",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2023/20230126/20230126-SPS30-yangming.joblib\" target=\"_blank\" title=\"20230126-SPS30-yangming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2023/20230126/20230126-SPS30-yangming.json\" target=\"_blank\" title=\"20230126-SPS30-yangming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.53,
+          25.183
+        ]
+      }
+    }
+  ]
+}
