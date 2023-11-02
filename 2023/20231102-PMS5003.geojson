@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 14,
+        "SiteName": "Taoyuan",
+        "Date": "2023-11-02",
+        "Valid_MAE": 4.714,
+        "Version": "2023-11-02 00:02:30",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2023/20231102/20231102-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20231102-PMS5003-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2023/20231102/20231102-PMS5003-taoyuan.json\" target=\"_blank\" title=\"20231102-PMS5003-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Zhongming",
+        "Date": "2023-11-02",
+        "Valid_MAE": 2.25,
+        "Version": "2023-11-02 00:02:52",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2023/20231102/20231102-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20231102-PMS5003-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2023/20231102/20231102-PMS5003-zhongming.json\" target=\"_blank\" title=\"20231102-PMS5003-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    }
+  ]
+}
