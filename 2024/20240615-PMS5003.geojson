@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PH",
+        "Method": "SVR",
+        "Data_Length": 7,
+        "SiteName": "Taoyuan",
+        "Date": "2024-06-15",
+        "Valid_MAE": 3.03,
+        "Version": "2024-06-15 00:01:40",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2024/20240615/20240615-PMS5003-taoyuan.joblib\" target=\"_blank\" title=\"20240615-PMS5003-taoyuan.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2024/20240615/20240615-PMS5003-taoyuan.json\" target=\"_blank\" title=\"20240615-PMS5003-taoyuan.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304,
+          24.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "RandomForestRegressor",
+        "Data_Length": 30,
+        "SiteName": "Zhongming",
+        "Date": "2024-06-15",
+        "Valid_MAE": 3.427,
+        "Version": "2024-06-15 00:01:43",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2024/20240615/20240615-PMS5003-zhongming.joblib\" target=\"_blank\" title=\"20240615-PMS5003-zhongming.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2024/20240615/20240615-PMS5003-zhongming.json\" target=\"_blank\" title=\"20240615-PMS5003-zhongming.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.641,
+          24.152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Feature": "PHR",
+        "Method": "GAM",
+        "Data_Length": 14,
+        "SiteName": "Wanhua",
+        "Date": "2024-06-15",
+        "Valid_MAE": 1.736,
+        "Version": "2024-06-15 00:01:53",
+        "Model": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2024/20240615/20240615-PMS5003-wanhua.joblib\" target=\"_blank\" title=\"20240615-PMS5003-wanhua.joblib\">Link to File</a>",
+        "Config": "<a href=\"https://github.com/IISNRL/DCF-PM2.5/blob/master/2024/20240615/20240615-PMS5003-wanhua.json\" target=\"_blank\" title=\"20240615-PMS5003-wanhua.json\">Link to File</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.508,
+          25.047
+        ]
+      }
+    }
+  ]
+}
